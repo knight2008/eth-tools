@@ -1,19 +1,8 @@
 
-## 文件
- 
-create_eth_address.py
+## Some EVM chain tools
 
-## 功能 
 
-根据助记词批量生成ETH地址, 并输出到文件
-
-## 版本 
-```
-Python 3.8.6
-```
-
-## 依赖库 
-
-```
-pip install hdwallet
-```
+| 文件                            | 功能                                  |
+| ------------------------------ | :----------------------------------------------------------------------: |
+| create_eth_address.py          | 根据助记词批量生成ETH地址, 并输出到文件 |
+| get_dex_price.py               | 查询 pancake 交易池中 token 的价格 |

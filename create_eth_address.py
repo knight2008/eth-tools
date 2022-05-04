@@ -4,11 +4,14 @@
 # Author: knight2008
 # QQ&Wechat: 496966425
 # TG: @knight2008
-# FileName: create_eth_address.py
+# Filename: create_eth_address.py
 # Github: https://github.com/knight2008
 # 版权：自由转载-开源免费-任意使用
 
 # 功能: 根据助记词批量生成ETH地址, 并输出到文件
+# 版本: Python 3.8.6
+# 依赖库:
+# pip install hdwallet
 
 
 from hdwallet import BIP44HDWallet
