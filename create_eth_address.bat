@@ -1,1 +1,1 @@
-python %~n0.py
+python create_eth_address.py

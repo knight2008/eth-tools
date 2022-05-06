@@ -1,0 +1,1 @@
+python batch_get_balance.py -r https://bsc-dataseed1.binance.org -i address.txt -c 0x3203c9E46cA618C8C1cE5dC67e7e9D75f5da2377

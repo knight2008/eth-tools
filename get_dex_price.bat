@@ -1,1 +1,1 @@
-python %~n0.py
+python get_dex_price.py
